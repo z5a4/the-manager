@@ -1,0 +1,11 @@
+py to exe
+
+1.pip install pyinstaller
+in the py folder not in
+scripts.
+
+2.pyinstaller --onefile (pyfilename.py)
+
+3.pip install auto-py-to-exe
+
+4.auto-py-to-exe (pyfilename.py)
